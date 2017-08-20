@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">San Francisco Recommendations</string>
+    <string name="title_coffee">Coffee</string>
+    <string name="title_activities">Activities</string>
+    <string name="title_restaurants">Restaurants</string>
+    <string name="title_bars">Bars</string>
+
+    //Create String names for activity names in ActivitiesActivity
+    <string name="act_name_clarion">Clarion Alley</string>
+    <string name="act_name_bike">Bike the Bridge</string>
+    <string name="act_name_ocean_beach">Ocean Beach</string>
+    <string name="act_name_deyoung">De Young Museum</string>
+    <string name="act_name_lombard">Lombard Street</string>
+    <string name="act_name_dolores">Dolores Park</string>
+    <string name="act_name_alcatraz">Alcatraz Night Tour</string>
+
+    //Create String names for activity descriptions in ActivitiesActivity
+    <string name="act_des_clarion">Beautiful street art in the mission</string>
+    <string name="act_des_bike">Ride across the bridge and take the ferry back</string>
+    <string name="act_des_ocean_beach">Majestic, powerful Pacific Ocean beach</string>
+    <string name="act_des_deyoung">Great art museum in Golden Gate Park</string>
+    <string name="act_des_lombard">Drive it if you can</string>
+    <string name="act_des_dolores">Quintessential San Francisco</string>
+    <string name="act_des_alcatraz">Jails are spookier at night</string>
+
+    //Create String names for activity urls in ActivitiesActivity
+    <string name="act_url_clarion">https://goo.gl/maps/28N4X2sdvyC2</string>
+    <string name="act_url_bike">https://goo.gl/maps/NQJreJfrwLw</string>
+    <string name="act_url_ocean_beach">https://goo.gl/maps/qgipC5JSJZL2</string>
+    <string name="act_url_deyoung">https://goo.gl/maps/qNwzeMFE1Wy</string>
+    <string name="act_url_lombard">https://goo.gl/maps/hpe4J1DHGPn</string>
+    <string name="act_url_dolores">https://goo.gl/maps/Tm9rTRezPnx</string>
+    <string name="act_url_alcatraz">https://goo.gl/maps/HYzdVsjKXut</string>
+
+    //Create String names for bars names in BarsActivity
+    <string name="bars_name_buena">Buena Vista</string>
+    <string name="bars_name_odd">Odd Job</string>
+    <string name="bars_name_harper">Harper and Rye</string>
+    <string name="bars_name_comstock">Comstock Saloon</string>
+    <string name="bars_name_trademark">Trademark</string>
+    <string name="bars_name_romolo">Romolo 15</string>
+
+    //Create String names for bars descriptions in BarsActivity
+    <string name="bars_des_buena">Irish coffees!</string>
+    <string name="bars_des_odd">Delicious cocktails, though priced high</string>
+    <string name="bars_des_harper">Always happening go out bar on Polk St</string>
+    <string name="bars_des_comstock">Classy old world cocktails and whiskey</string>
+    <string name="bars_des_trademark">Happening sports bar</string>
+    <string name="bars_des_romolo">A surprisingly delicious martini</string>
+
+    //Create String names for bars urls in BarsActivity
+    <string name="bars_url_buena">https://goo.gl/maps/TEBg9dK8UzP2</string>
+    <string name="bars_url_odd">https://goo.gl/maps/noW7r7q6b2m</string>
+    <string name="bars_url_harper">https://goo.gl/maps/uD8mNeUq3H12</string>
+    <string name="bars_url_comstock">https://goo.gl/maps/ob9MpckTrZT2</string>
+    <string name="bars_url_trademark">https://goo.gl/maps/ceAyUD7Rz2N2</string>
+    <string name="bars_url_romolo">https://goo.gl/maps/rQgb3q3RQgK2</string>
+
+    //Create String names for coffee place names in CoffeeActivity
+    <string name="coffee_name_sight_glass">Sight Glass</string>
+    <string name="coffee_name_trieste">Trieste</string>
+    <string name="coffee_name_sextant">Sextant</string>
+    <string name="coffee_name_craftsman">Craftsman and Wolves</string>
+    <string name="coffee_name_vive">Vive la Tart</string>
+    <string name="coffee_name_ferry">Ferry Building</string>
+
+    //Create String names for coffee place descriptions in CoffeeActivity
+    <string name="coffee_des_sight_glass">Big onsite roaster with great coffee drinks</string>
+    <string name="coffee_des_trieste">Classic old school italian coffee shop</string>
+    <string name="coffee_des_sextant">Small neighborhood roaster</string>
+    <string name="coffee_des_craftsman">Amazing pastries.  Get the rebel</string>
+    <string name="coffee_des_vive">Cool SF atmosphere with excellent lunch</string>
+    <string name="coffee_des_ferry">Saturday farmers market</string>
+
+    //Create String names for coffee place urls in CoffeeActivity
+    <string name="coffee_url_sight_glass">https://goo.gl/maps/qwshD61p1WC2</string>
+    <string name="coffee_url_trieste">https://goo.gl/maps/D7Fr5SpH4K12</string>
+    <string name="coffee_url_sextant">https://goo.gl/maps/2CCqePKbGAp</string>
+    <string name="coffee_url_craftsman">https://goo.gl/maps/6zqxD8VsV8q</string>
+    <string name="coffee_url_vive">https://goo.gl/maps/2sbyWN3txCN2</string>
+    <string name="coffee_url_ferry">https://goo.gl/maps/tWSQ1MWhg932</string>
+
+    //Create String names for restaurant names in RestaurantsActivity
+    <string name="rest_name_kokkari">Kokkari</string>
+    <string name="rest_name_bellota">Bellota</string>
+    <string name="rest_name_sodinis">Sodinis</string>
+    <string name="rest_name_wayfare">Wayfare Tavern</string>
+    <string name="rest_name_elfarrolit">El Farolito</string>
+    <string name="rest_name_basil">Basil Thai</string>
+    <string name="rest_name_iza">Iza Ramen</string>
+    <string name="rest_name_deli_board">Deli Board</string>
+
+    //Create String names for restaurant descriptions in RestaurantsActivity
+    <string name="rest_des_kokkari">The best greek food in the city</string>
+    <string name="rest_des_bellota">Spanish tapas.  Get the Paella</string>
+    <string name="rest_des_sodinis">The realest in North Beach</string>
+    <string name="rest_des_wayfare">Classic classy american dinners</string>
+    <string name="rest_des_elfarrolit">Phenomenal burrito under $10</string>
+    <string name="rest_des_basil">The most affordable high quality thai</string>
+    <string name="rest_des_iza">Worth the wait ramen</string>
+    <string name="rest_des_deli_board">Awesome newish deli sandwiches</string>
+
+    //Create String names for restaurant URLs in RestaurantsActivity
+    <string name="rest_url_kokkari">https://goo.gl/maps/rJchtFhuktT2</string>
+    <string name="rest_url_bellota">https://goo.gl/maps/1ry3VNQgnuH2</string>
+    <string name="rest_url_sodinis">https://goo.gl/maps/fzz1amiuc8n</string>
+    <string name="rest_url_wayfare">https://goo.gl/maps/k2v98nKAeSP2</string>
+    <string name="rest_url_elfarrolit">https://goo.gl/maps/nkn2AxMs2Vy</string>
+    <string name="rest_url_basil">https://goo.gl/maps/A6EBybt8W7D2</string>
+    <string name="rest_url_iza">https://goo.gl/maps/ZSfhzetpkK12</string>
+    <string name="rest_url_deli_board">https://goo.gl/maps/oizNwktF2HP2</string>
+
+    //Create String names for neighborhoods in San Francisco
+    <string name="neighborhood_soma">SOMA</string>
+    <string name="neighborhood_north_beach">North Beach</string>
+    <string name="neighborhood_mission">Mission</string>
+    <string name="neighborhood_downtown">Downtown</string>
+    <string name="neighborhood_marina">Marina</string>
+    <string name="neighborhood_outer_sunset">Outer Sunset</string>
+    <string name="neighborhood_golden_gate_park">Golden Gate Park</string>
+    <string name="neighborhood_russian_hill">Russian Hill</string>
+    <string name="neighborhood_sf_bay">San Francisco Bay</string>
+    <string name="neighborhood_fishermans">Fishermans Wharf</string>
+
+</resources>
